@@ -37,6 +37,7 @@
   },
   "rules": {
     "linebreak-style": "off",
+    "import/no-extraneous-dependencies": "off",
     "prettier/prettier": [
       "error",
       {
